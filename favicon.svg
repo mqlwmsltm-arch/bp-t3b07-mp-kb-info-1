@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100%" height="100%" rx="20" fill="#0c0a0f"/>
-  <circle cx="50" cy="50" r="38" fill="none" stroke="#ec4899" stroke-width="4"/>
-  <!-- Neon styled double eighth note -->
-  <path d="M40,65 A 7,7 0 1 1 33,58 L 33,32 L 67,24 L 67,48 A 7,7 0 1 1 60,41" fill="#f8fafc" stroke="#3b82f6" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M33,40 L67,32" stroke="#f8fafc" stroke-width="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <metadata>BPaaS site identity 404f3ef71f2ef838</metadata>
+  <rect width="64" height="64" rx="10" fill="hsl(263 50% 31%)"/>
+  <path d="M30 0h34v64H16Z" fill="hsl(13 70% 62%)" opacity="0.82"/>
+  <g transform="rotate(43 32 32)" opacity="0.42"><path d="M14 20h36L32 50Z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/></g>
+  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">MS</text>
 </svg>
