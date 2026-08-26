@@ -36,11 +36,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mapo-shirts-connect.xyz/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mapo-shirts-connect.xyz/posts/myth-002-rdqc79.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -51,17 +46,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mapo-shirts-connect.xyz/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mapo-shirts-connect.xyz/posts/normal-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://mapo-shirts-connect.xyz/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mapo-shirts-connect.xyz/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mapo-shirts-connect.xyz/posts/normal-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
